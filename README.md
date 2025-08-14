@@ -9,10 +9,7 @@
 
 **Deliverables:**
 
-- ``` yml
-  my_mutating_sort(items)
-  ```
-  function in `sorting.py` (in-place sort)
+- `my_mutating_sort(items)` function in `sorting.py` (in-place sort)
   
 - `my_immutable_sort(items)` function in `sorting.py` (returns new sorted sequence)
   
